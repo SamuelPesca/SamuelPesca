@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Samuel Pesca also known as Sam 👋
 
-<!--
-**SamuelPesca/SamuelPesca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in testing with a rich background fast-paced startups. Recognized for my attention to detail, robust collaboration leading to significant efficiency gains and user engagement, operational efficiency.
 
-Here are some ideas to get you started:
+## Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php)]()
+
+
+#### Database
+
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb, postgres)]()
+
+#### Tools and Technologies
+
+[![stack](https://skillicons.dev/icons?i=aws,githubactions,jenkins,grafana,graphql,nodejs,electron,powershell,linux,selenium)]()
