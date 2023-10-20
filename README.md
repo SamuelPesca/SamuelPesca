@@ -11,7 +11,7 @@ Software engineer in testing with a rich background fast-paced startups. Recogni
 [![Backend](https://skillicons.dev/icons?i=nestjs,express,laravel,symfony)]()
 
 ### Frontend Frameworks:  
-[![Backend](https://skillicons.dev/icons?i=nextjs,angular,bootstrap)]()
+[![Backend](https://skillicons.dev/icons?i=nextjs,angular,bootstrap,react,vue)]()
 
 #### Database
 
