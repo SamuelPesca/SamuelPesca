@@ -10,7 +10,7 @@ Software engineer in testing with a rich background fast-paced startups. Recogni
 
 #### Database
 
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb, postgres)]()
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres)]()
 
 #### Tools and Technologies
 
