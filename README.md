@@ -5,13 +5,18 @@ Software engineer in testing with a rich background fast-paced startups. Recogni
 ## Skills:
 
 #### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php)]()
+[![Languages](https://skillicons.dev/icons?i=js,ts,php)]()
 
+### Backend Frameworks:
+[![Backend](https://skillicons.dev/icons?i=nestjs,express,laravel,symfony)]()
+
+### Frontend Frameworks:  
+[![Backend](https://skillicons.dev/icons?i=nextjs,angular,bootstrap)]()
 
 #### Database
 
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres)]()
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres,dynamodb)]()
 
 #### Tools and Technologies
 
-[![stack](https://skillicons.dev/icons?i=aws,githubactions,jenkins,grafana,graphql,nodejs,electron,powershell,linux,selenium)]()
+[![stack](https://skillicons.dev/icons?i=aws,githubactions,graphql,nodejs,electron,selenium,docker,figma,git,github,gitlab,postman,vercel)]()
