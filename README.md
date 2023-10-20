@@ -1,4 +1,4 @@
-### Hi there, I'm Samuel Pesca also known as Sam 👋
+## Hi there, I'm Samuel Pesca also known as Sam 👋
 
 Software engineer in testing with a rich background fast-paced startups. Recognized for my attention to detail, robust collaboration leading to significant efficiency gains and user engagement, operational efficiency.
 
