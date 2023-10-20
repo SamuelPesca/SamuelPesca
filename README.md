@@ -19,4 +19,4 @@ Software engineer in testing with a rich background fast-paced startups. Recogni
 
 #### Tools and Technologies
 
-[![stack](https://skillicons.dev/icons?i=aws,githubactions,graphql,nodejs,electron,selenium,docker,figma,git,github,gitlab,postman,vercel)]()
+[![stack](https://skillicons.dev/icons?i=aws,githubactions,graphql,nodejs,selenium,docker,figma,git,github,gitlab,postman,vercel)]()
